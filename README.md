@@ -1,2 +1,2 @@
 # go-ms-poc
-poc implementation of micro surges in go language
+poc implementation of microservice in go language
